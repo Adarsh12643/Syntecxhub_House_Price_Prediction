@@ -59,4 +59,3 @@ python housepricepred.py
 
 ---
 
-**Would you like me to help you draft a LinkedIn post to announce the completion of this project, similar to your previous internship posts?**
