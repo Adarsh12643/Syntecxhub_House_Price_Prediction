@@ -28,7 +28,7 @@ The model is evaluated based on:
 ## 📂 Project Structure
 
 ```text
-├── house.csv                # Raw housing dataset
+├── housing_data.csv         # Raw housing dataset
 ├── housepricepred.py        # Main training script
 └── house_price_model.pkl    # Saved model file
 ```
